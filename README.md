@@ -1,2 +1,2 @@
 # Dara-Analytics
-Git repo for the course data analytics 2024
+Git repo for the course Data Analytics 2024
